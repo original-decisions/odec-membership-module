@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object id="UserRepository" name="UserRepository"
+      type="odec.User.DAL.Denormalized.UserRepository, odec.User.DAL">
+  </object>
+</objects>
